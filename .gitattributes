@@ -1,1 +1,4 @@
-*.java linguist-detectable=true
+*.ipynb linguist-language=Python
+*.py linguist-language=Python
+*.java linguist-language=Java
+*.cpp linguist-language=C++
